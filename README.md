@@ -1,6 +1,6 @@
-# This is a template for creating your own VC Gated Dapp
+# Website for pet owners - with universal petID
 
-This template spins up a dapp that is 
+This will spins up a dapp that is 
 
 -   ✅ Built with the popular [React JS](https://react.dev/) library
 -   ✅ VC Gated with a [Polygon ID KYCAgeCredential](https://oceans404.notion.site/How-to-get-a-KYCAgeCredential-Verifiable-Credential-f3d34e7c98ec4147b6b2fae79066c4f6?pvs=4)
@@ -8,9 +8,8 @@ This template spins up a dapp that is
 -   ✅ Beautifully styled with configurable components and icons from the [Chakra UI](https://chakra-ui.com/docs/components) library
 -   ✅ Ready to interact with any smart contract thanks to working read and write examples from a Polygon zkEVM Testnet demo smart contract with [wagmi hooks](https://wagmi.sh/)
 
-Use this template as a base to bootstrap a Polygon hackathon project **FAST** 🏃🏻‍♀️ so you can focus on your dapp's business logic & building the value layer of the internet. 🚀
 
-Love or hate something about this template? Let me know by [tweeting your feedback](https://twitter.com/intent/tweet?text=gm%20Steph%20I'm%20building%20with%20your%20VC%20gated%20Dapp%20template%20%400ceans404%20https%3A%2F%2Fgithub.com%2Foceans404%2Ffullstack-polygon-id-vc-gated-dapp%20%400xPolygon)
+Love or hate something about this template? Let me know by [tweeting your feedback](twitter.com/akshayynft)
 
 ## Getting started with the template
 
