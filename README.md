@@ -1,4 +1,4 @@
-# Website for pet owners - with universal petID
+# Website for pet owners (with universal petID) to come and enjoy petMetaverse 
 
 This will spins up a dapp that is 
 
@@ -42,7 +42,7 @@ https://github.com/oceans404/fullstack-polygon-id-vc-gated-dapp/tree/main/fronte
 - Frontend: localhost:3000
 - Server: localhost:8080
 
-## Here's the fullstack vc gated dapp this template spins up
+## Here's the fullstack vc gated dapp this spins up
 
 Welcome page: In order to see the dapp, you need to prove your access rights. Click the "Prove access rights" button
 
