@@ -22,12 +22,11 @@ function App() {
             >
               <CardBody style={{ paddingBottom: 0 }}>
                 <p>
-                  This is a fullstack template for creating a Polygon ID VC{" "}
+                  Verify Your Pet's ID {" "}
                   <a href="https://0xpolygonid.github.io/tutorials/#core-concepts-of-polygon-id-verifiable-credentials-identity-holder-issuer-and-verifier-triangle-of-trust">
                     (Verifiable Credential)
-                  </a>{" "}
-                  gated dapp. Prove you were born before January 1, 2023 to use
-                  the dapp
+                  </a>{" "} <br></br>
+                  Community for Real Pet Fans
                 </p>
 
                 <PolygonIDVerifier
@@ -44,13 +43,14 @@ function App() {
                   onVerificationResult={setProvedAccessBirthday}
                 />
                 <Image
-                  src="https://bafybeibcgo5anycve5flw6pcz5esiqkvrzlmwdr37wcqu33u63olskqkze.ipfs.nftstorage.link/"
+                   src = "https://media.istockphoto.com/id/1006322236/photo/collection-of-photos-of-dogs-and-cats-together.jpg?s=2048x2048&w=is&k=20&c=NEyUJhAdSv4BpKweqbQ65vuxc651tUUc_yYrNzHjeL4="
+                  // src="https://bafybeibcgo5anycve5flw6pcz5esiqkvrzlmwdr37wcqu33u63olskqkze.ipfs.nftstorage.link/"
                   alt="Polygon devs image"
                   borderRadius="lg"
                 />
               </CardBody>
               <a
-                href="https://twitter.com/0ceans404"
+                href="https://twitter.com/akshayynft"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -62,7 +62,7 @@ function App() {
                     fontSize: "8px",
                   }}
                 >
-                  Template built with 💜 by Steph
+                  Project by https://twitter.com/akshayynft
                 </p>
               </a>
             </Card>
